@@ -1,0 +1,3 @@
+fileIn-3.txt: 40
+fileIn-1.txt: 1
+fileIn-2.txt: -5
